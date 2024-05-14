@@ -11,13 +11,15 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("primer_parcial_labo2")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("FrmAtencion")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+df9ce27170f53d99cdd0dca7e79fefc5d9cc177f")]
-[assembly: System.Reflection.AssemblyProductAttribute("primer_parcial_labo2")]
-[assembly: System.Reflection.AssemblyTitleAttribute("primer_parcial_labo2")]
+[assembly: System.Reflection.AssemblyProductAttribute("FrmAtencion")]
+[assembly: System.Reflection.AssemblyTitleAttribute("FrmAtencion")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
+[assembly: System.Runtime.Versioning.TargetPlatformAttribute("Windows7.0")]
+[assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("Windows7.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.
 

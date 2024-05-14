@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "I:\\workspace_ani\\UTN_Programacion\\laboratorio_2_primer_parcial\\AnibalCaeiroDivMartes1830hs\\primer_parcial_labo2\\primer_parcial_labo2.csproj",
+      "projectUniqueName": "I:\\workspace_ani\\UTN_Programacion\\laboratorio_2_primer_parcial\\laboratorio_2_Parcial\\AnibalCaeiroDivMartes1830hs\\primer_parcial_labo2\\primer_parcial_labo2.csproj",
       "projectName": "primer_parcial_labo2",
-      "projectPath": "I:\\workspace_ani\\UTN_Programacion\\laboratorio_2_primer_parcial\\AnibalCaeiroDivMartes1830hs\\primer_parcial_labo2\\primer_parcial_labo2.csproj",
+      "projectPath": "I:\\workspace_ani\\UTN_Programacion\\laboratorio_2_primer_parcial\\laboratorio_2_Parcial\\AnibalCaeiroDivMartes1830hs\\primer_parcial_labo2\\primer_parcial_labo2.csproj",
       "packagesPath": "C:\\Users\\samue\\.nuget\\packages\\",
-      "outputPath": "I:\\workspace_ani\\UTN_Programacion\\laboratorio_2_primer_parcial\\AnibalCaeiroDivMartes1830hs\\primer_parcial_labo2\\obj\\",
+      "outputPath": "I:\\workspace_ani\\UTN_Programacion\\laboratorio_2_primer_parcial\\laboratorio_2_Parcial\\AnibalCaeiroDivMartes1830hs\\primer_parcial_labo2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\samue\\AppData\\Roaming\\NuGet\\NuGet.Config",
