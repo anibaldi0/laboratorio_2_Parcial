@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "I:\\workspace_ani\\UTN_Programacion\\laboratorio_2_primer_parcial\\laboratorio_2_Parcial\\AnibalCaeiroDivMartes1830hs\\FrmAtencion\\FrmAtencion.csproj": {}
+    "I:\\workspace_ani\\UTN_Programacion\\laboratorio_2_primer_parcial\\Nueva carpeta (2)\\laboratorio_2_Parcial\\AnibalCaeiroDivMartes1830hs\\FrmAtencion\\FrmAtencion.csproj": {}
   },
   "projects": {
-    "I:\\workspace_ani\\UTN_Programacion\\laboratorio_2_primer_parcial\\laboratorio_2_Parcial\\AnibalCaeiroDivMartes1830hs\\FrmAtencion\\FrmAtencion.csproj": {
+    "I:\\workspace_ani\\UTN_Programacion\\laboratorio_2_primer_parcial\\Nueva carpeta (2)\\laboratorio_2_Parcial\\AnibalCaeiroDivMartes1830hs\\FrmAtencion\\FrmAtencion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "I:\\workspace_ani\\UTN_Programacion\\laboratorio_2_primer_parcial\\laboratorio_2_Parcial\\AnibalCaeiroDivMartes1830hs\\FrmAtencion\\FrmAtencion.csproj",
+        "projectUniqueName": "I:\\workspace_ani\\UTN_Programacion\\laboratorio_2_primer_parcial\\Nueva carpeta (2)\\laboratorio_2_Parcial\\AnibalCaeiroDivMartes1830hs\\FrmAtencion\\FrmAtencion.csproj",
         "projectName": "FrmAtencion",
-        "projectPath": "I:\\workspace_ani\\UTN_Programacion\\laboratorio_2_primer_parcial\\laboratorio_2_Parcial\\AnibalCaeiroDivMartes1830hs\\FrmAtencion\\FrmAtencion.csproj",
+        "projectPath": "I:\\workspace_ani\\UTN_Programacion\\laboratorio_2_primer_parcial\\Nueva carpeta (2)\\laboratorio_2_Parcial\\AnibalCaeiroDivMartes1830hs\\FrmAtencion\\FrmAtencion.csproj",
         "packagesPath": "C:\\Users\\samue\\.nuget\\packages\\",
-        "outputPath": "I:\\workspace_ani\\UTN_Programacion\\laboratorio_2_primer_parcial\\laboratorio_2_Parcial\\AnibalCaeiroDivMartes1830hs\\FrmAtencion\\obj\\",
+        "outputPath": "I:\\workspace_ani\\UTN_Programacion\\laboratorio_2_primer_parcial\\Nueva carpeta (2)\\laboratorio_2_Parcial\\AnibalCaeiroDivMartes1830hs\\FrmAtencion\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\samue\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,8 +27,8 @@
           "net6.0-windows7.0": {
             "targetAlias": "net6.0-windows",
             "projectReferences": {
-              "I:\\workspace_ani\\UTN_Programacion\\laboratorio_2_primer_parcial\\laboratorio_2_Parcial\\AnibalCaeiroDivMartes1830hs\\primer_parcial_labo2\\primer_parcial_labo2.csproj": {
-                "projectPath": "I:\\workspace_ani\\UTN_Programacion\\laboratorio_2_primer_parcial\\laboratorio_2_Parcial\\AnibalCaeiroDivMartes1830hs\\primer_parcial_labo2\\primer_parcial_labo2.csproj"
+              "I:\\workspace_ani\\UTN_Programacion\\laboratorio_2_primer_parcial\\Nueva carpeta (2)\\laboratorio_2_Parcial\\AnibalCaeiroDivMartes1830hs\\primer_parcial_labo2\\primer_parcial_labo2.csproj": {
+                "projectPath": "I:\\workspace_ani\\UTN_Programacion\\laboratorio_2_primer_parcial\\Nueva carpeta (2)\\laboratorio_2_Parcial\\AnibalCaeiroDivMartes1830hs\\primer_parcial_labo2\\primer_parcial_labo2.csproj"
               }
             }
           }
@@ -70,14 +70,14 @@
         }
       }
     },
-    "I:\\workspace_ani\\UTN_Programacion\\laboratorio_2_primer_parcial\\laboratorio_2_Parcial\\AnibalCaeiroDivMartes1830hs\\primer_parcial_labo2\\primer_parcial_labo2.csproj": {
+    "I:\\workspace_ani\\UTN_Programacion\\laboratorio_2_primer_parcial\\Nueva carpeta (2)\\laboratorio_2_Parcial\\AnibalCaeiroDivMartes1830hs\\primer_parcial_labo2\\primer_parcial_labo2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "I:\\workspace_ani\\UTN_Programacion\\laboratorio_2_primer_parcial\\laboratorio_2_Parcial\\AnibalCaeiroDivMartes1830hs\\primer_parcial_labo2\\primer_parcial_labo2.csproj",
+        "projectUniqueName": "I:\\workspace_ani\\UTN_Programacion\\laboratorio_2_primer_parcial\\Nueva carpeta (2)\\laboratorio_2_Parcial\\AnibalCaeiroDivMartes1830hs\\primer_parcial_labo2\\primer_parcial_labo2.csproj",
         "projectName": "primer_parcial_labo2",
-        "projectPath": "I:\\workspace_ani\\UTN_Programacion\\laboratorio_2_primer_parcial\\laboratorio_2_Parcial\\AnibalCaeiroDivMartes1830hs\\primer_parcial_labo2\\primer_parcial_labo2.csproj",
+        "projectPath": "I:\\workspace_ani\\UTN_Programacion\\laboratorio_2_primer_parcial\\Nueva carpeta (2)\\laboratorio_2_Parcial\\AnibalCaeiroDivMartes1830hs\\primer_parcial_labo2\\primer_parcial_labo2.csproj",
         "packagesPath": "C:\\Users\\samue\\.nuget\\packages\\",
-        "outputPath": "I:\\workspace_ani\\UTN_Programacion\\laboratorio_2_primer_parcial\\laboratorio_2_Parcial\\AnibalCaeiroDivMartes1830hs\\primer_parcial_labo2\\obj\\",
+        "outputPath": "I:\\workspace_ani\\UTN_Programacion\\laboratorio_2_primer_parcial\\Nueva carpeta (2)\\laboratorio_2_Parcial\\AnibalCaeiroDivMartes1830hs\\primer_parcial_labo2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\samue\\AppData\\Roaming\\NuGet\\NuGet.Config",

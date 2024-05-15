@@ -19,3 +19,24 @@ I:\workspace_ani\UTN_Programacion\laboratorio_2_primer_parcial\laboratorio_2_Par
 I:\workspace_ani\UTN_Programacion\laboratorio_2_primer_parcial\laboratorio_2_Parcial\AnibalCaeiroDivMartes1830hs\FrmAtencion\bin\Debug\net6.0-windows\primer_parcial_labo2.pdb
 I:\workspace_ani\UTN_Programacion\laboratorio_2_primer_parcial\laboratorio_2_Parcial\AnibalCaeiroDivMartes1830hs\FrmAtencion\obj\Debug\net6.0-windows\FrmAtencion.csproj.AssemblyReference.cache
 I:\workspace_ani\UTN_Programacion\laboratorio_2_primer_parcial\laboratorio_2_Parcial\AnibalCaeiroDivMartes1830hs\FrmAtencion\obj\Debug\net6.0-windows\FrmAtenc.C35CE161.Up2Date
+I:\workspace_ani\UTN_Programacion\laboratorio_2_primer_parcial\Nueva carpeta (2)\laboratorio_2_Parcial\AnibalCaeiroDivMartes1830hs\FrmAtencion\bin\Debug\net6.0-windows\FrmAtencion.exe
+I:\workspace_ani\UTN_Programacion\laboratorio_2_primer_parcial\Nueva carpeta (2)\laboratorio_2_Parcial\AnibalCaeiroDivMartes1830hs\FrmAtencion\bin\Debug\net6.0-windows\FrmAtencion.deps.json
+I:\workspace_ani\UTN_Programacion\laboratorio_2_primer_parcial\Nueva carpeta (2)\laboratorio_2_Parcial\AnibalCaeiroDivMartes1830hs\FrmAtencion\bin\Debug\net6.0-windows\FrmAtencion.runtimeconfig.json
+I:\workspace_ani\UTN_Programacion\laboratorio_2_primer_parcial\Nueva carpeta (2)\laboratorio_2_Parcial\AnibalCaeiroDivMartes1830hs\FrmAtencion\bin\Debug\net6.0-windows\FrmAtencion.dll
+I:\workspace_ani\UTN_Programacion\laboratorio_2_primer_parcial\Nueva carpeta (2)\laboratorio_2_Parcial\AnibalCaeiroDivMartes1830hs\FrmAtencion\bin\Debug\net6.0-windows\FrmAtencion.pdb
+I:\workspace_ani\UTN_Programacion\laboratorio_2_primer_parcial\Nueva carpeta (2)\laboratorio_2_Parcial\AnibalCaeiroDivMartes1830hs\FrmAtencion\bin\Debug\net6.0-windows\primer_parcial_labo2.dll
+I:\workspace_ani\UTN_Programacion\laboratorio_2_primer_parcial\Nueva carpeta (2)\laboratorio_2_Parcial\AnibalCaeiroDivMartes1830hs\FrmAtencion\bin\Debug\net6.0-windows\primer_parcial_labo2.pdb
+I:\workspace_ani\UTN_Programacion\laboratorio_2_primer_parcial\Nueva carpeta (2)\laboratorio_2_Parcial\AnibalCaeiroDivMartes1830hs\FrmAtencion\obj\Debug\net6.0-windows\FrmAtencion.csproj.AssemblyReference.cache
+I:\workspace_ani\UTN_Programacion\laboratorio_2_primer_parcial\Nueva carpeta (2)\laboratorio_2_Parcial\AnibalCaeiroDivMartes1830hs\FrmAtencion\obj\Debug\net6.0-windows\FrmAtencion.Form1.resources
+I:\workspace_ani\UTN_Programacion\laboratorio_2_primer_parcial\Nueva carpeta (2)\laboratorio_2_Parcial\AnibalCaeiroDivMartes1830hs\FrmAtencion\obj\Debug\net6.0-windows\FrmAtencion.csproj.GenerateResource.cache
+I:\workspace_ani\UTN_Programacion\laboratorio_2_primer_parcial\Nueva carpeta (2)\laboratorio_2_Parcial\AnibalCaeiroDivMartes1830hs\FrmAtencion\obj\Debug\net6.0-windows\FrmAtencion.GeneratedMSBuildEditorConfig.editorconfig
+I:\workspace_ani\UTN_Programacion\laboratorio_2_primer_parcial\Nueva carpeta (2)\laboratorio_2_Parcial\AnibalCaeiroDivMartes1830hs\FrmAtencion\obj\Debug\net6.0-windows\FrmAtencion.AssemblyInfoInputs.cache
+I:\workspace_ani\UTN_Programacion\laboratorio_2_primer_parcial\Nueva carpeta (2)\laboratorio_2_Parcial\AnibalCaeiroDivMartes1830hs\FrmAtencion\obj\Debug\net6.0-windows\FrmAtencion.AssemblyInfo.cs
+I:\workspace_ani\UTN_Programacion\laboratorio_2_primer_parcial\Nueva carpeta (2)\laboratorio_2_Parcial\AnibalCaeiroDivMartes1830hs\FrmAtencion\obj\Debug\net6.0-windows\FrmAtencion.csproj.CoreCompileInputs.cache
+I:\workspace_ani\UTN_Programacion\laboratorio_2_primer_parcial\Nueva carpeta (2)\laboratorio_2_Parcial\AnibalCaeiroDivMartes1830hs\FrmAtencion\obj\Debug\net6.0-windows\FrmAtencion.sourcelink.json
+I:\workspace_ani\UTN_Programacion\laboratorio_2_primer_parcial\Nueva carpeta (2)\laboratorio_2_Parcial\AnibalCaeiroDivMartes1830hs\FrmAtencion\obj\Debug\net6.0-windows\FrmAtenc.C35CE161.Up2Date
+I:\workspace_ani\UTN_Programacion\laboratorio_2_primer_parcial\Nueva carpeta (2)\laboratorio_2_Parcial\AnibalCaeiroDivMartes1830hs\FrmAtencion\obj\Debug\net6.0-windows\FrmAtencion.dll
+I:\workspace_ani\UTN_Programacion\laboratorio_2_primer_parcial\Nueva carpeta (2)\laboratorio_2_Parcial\AnibalCaeiroDivMartes1830hs\FrmAtencion\obj\Debug\net6.0-windows\refint\FrmAtencion.dll
+I:\workspace_ani\UTN_Programacion\laboratorio_2_primer_parcial\Nueva carpeta (2)\laboratorio_2_Parcial\AnibalCaeiroDivMartes1830hs\FrmAtencion\obj\Debug\net6.0-windows\FrmAtencion.pdb
+I:\workspace_ani\UTN_Programacion\laboratorio_2_primer_parcial\Nueva carpeta (2)\laboratorio_2_Parcial\AnibalCaeiroDivMartes1830hs\FrmAtencion\obj\Debug\net6.0-windows\FrmAtencion.genruntimeconfig.cache
+I:\workspace_ani\UTN_Programacion\laboratorio_2_primer_parcial\Nueva carpeta (2)\laboratorio_2_Parcial\AnibalCaeiroDivMartes1830hs\FrmAtencion\obj\Debug\net6.0-windows\ref\FrmAtencion.dll

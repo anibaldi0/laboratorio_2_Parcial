@@ -14,7 +14,12 @@ namespace FrmAtencion
 
         private void button2_Click(object sender, EventArgs e)
         {
-            
+            DialogResult resultado = MessageBox.Show("¿Seguro que desea salir?", "Salir", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+
+            if (resultado == DialogResult.Yes)
+            {
+                this.Close();
+            }
         }
     }
 }

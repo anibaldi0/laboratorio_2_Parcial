@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("primer_parcial_labo2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+df9ce27170f53d99cdd0dca7e79fefc5d9cc177f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d4a3b43b1c66bedb68b70b1e761791a22e1bd522")]
 [assembly: System.Reflection.AssemblyProductAttribute("primer_parcial_labo2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("primer_parcial_labo2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
